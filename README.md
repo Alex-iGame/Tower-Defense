@@ -1,2 +1,1 @@
-# Tower-Defense
-One of the simple examples of the Tower Defense game
+This is just a prototype of a game without much adherence to OOP rules
